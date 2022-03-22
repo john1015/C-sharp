@@ -1,0 +1,8 @@
+C:\Users\10151\source\repos\hi\hi\bin\Debug\hi.exe.config
+C:\Users\10151\source\repos\hi\hi\bin\Debug\hi.exe
+C:\Users\10151\source\repos\hi\hi\bin\Debug\hi.pdb
+C:\Users\10151\source\repos\hi\hi\obj\Debug\hi.csproj.AssemblyReference.cache
+C:\Users\10151\source\repos\hi\hi\obj\Debug\hi.csproj.SuggestedBindingRedirects.cache
+C:\Users\10151\source\repos\hi\hi\obj\Debug\hi.csproj.CoreCompileInputs.cache
+C:\Users\10151\source\repos\hi\hi\obj\Debug\hi.exe
+C:\Users\10151\source\repos\hi\hi\obj\Debug\hi.pdb
