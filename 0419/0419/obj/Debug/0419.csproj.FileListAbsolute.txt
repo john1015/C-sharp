@@ -1,0 +1,8 @@
+C:\Users\10151\source\repos\0419\0419\bin\Debug\0419.exe.config
+C:\Users\10151\source\repos\0419\0419\bin\Debug\0419.exe
+C:\Users\10151\source\repos\0419\0419\bin\Debug\0419.pdb
+C:\Users\10151\source\repos\0419\0419\obj\Debug\0419.csproj.AssemblyReference.cache
+C:\Users\10151\source\repos\0419\0419\obj\Debug\0419.csproj.SuggestedBindingRedirects.cache
+C:\Users\10151\source\repos\0419\0419\obj\Debug\0419.csproj.CoreCompileInputs.cache
+C:\Users\10151\source\repos\0419\0419\obj\Debug\0419.exe
+C:\Users\10151\source\repos\0419\0419\obj\Debug\0419.pdb
